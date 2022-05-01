@@ -1,0 +1,60 @@
+{
+    "navbar": {
+        "img":"assets/images/logo-dark.svg"
+    },
+
+    "hero": {
+        "title":"Website Design and Development"
+    },  
+
+    "portfolio":{
+        "t1":"Keep Calm and Eat",
+        "t2":"New Horizons",
+        "t3":"Urban Oasis",
+        "t4":"No Speed Limits",
+        "img1":"assets/images/portfolio-01.jpg",
+        "img2":"assets/images/portfolio-02.jpg",
+        "img3":"assets/images/portfolio-03.jpg",
+        "img4":"assets/images/portfolio-04.jpg"
+    },
+
+    "aboutus": {
+        "member1":{
+            "name":"Michelle B. Rowe",
+            "position":"Creative director",
+            "img":"assets/images/member-01.jpg"
+        },
+        "member2":{
+            "name":"Veronica D. Martin",
+            "position":"Lead designer",
+            "img":"assets/images/member-02.jpg"
+        },
+        "member3":{
+            "name":"Richard A. Hair",
+            "position":"Lead developer",
+            "img":"assets/images/member-03.jpg"
+        }
+    },
+
+    "testimonials":{
+        "t1":{
+            "name":"Marissa Mayer",
+            "position":"Yahoo CEO"
+        },
+        "t2":{
+            "name":"Marry Barra",
+            "position":"General Motors CEO"
+        },
+        "t3":{
+            "name":"Elon Musk",
+            "position":"Tesla CEO"
+        }
+    },
+
+    "footer":{
+        "logo":"assets/images/logo-light.svg",
+        "copyright":"©2020 All Rights Reserved. Created by Themes Bootstrap"
+    }
+
+    
+}
